@@ -61,3 +61,10 @@ concat_demo = ",".join(demo)
 """
 demo2 = "1 2 3"
 divide_demo2 = demo2.split()
+
+"""
+コピー
+"""
+
+hoge = [1, 3, 5]
+fuga = hoge.copy()
